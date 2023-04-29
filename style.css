@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Oswald', sans-serif;
+  background-color: lightsteelblue;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 1rem
+}
+
+p {
+  margin: auto;
+  font-family: 'Oswald', sans-serif;
+  text-indent: 2em;
+  padding: 1rem
+}
+
+h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+footer {
+  padding: 2em
+  font-family: 'Oswald', sans-serif;
+}
+
+form {
+  padding: 2em
+}
